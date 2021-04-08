@@ -1,0 +1,22 @@
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Administrator\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Administrator\source\repos\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Administrator\source\repos\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\bin\Debug\QLSV.exe
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.exe
+C:\Users\Administrator\source\repos\QLSV - Copy\QLSV\obj\Debug\QLSV.pdb
